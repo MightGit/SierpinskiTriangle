@@ -11,7 +11,7 @@ def screen():
 rando_dots=[]
 #rando dots er vores 3 punkter for at lave den første trekant
    def rando_dots(n):
-      if n < 3 
+      if n < 3
 
 rando_dots()
 
